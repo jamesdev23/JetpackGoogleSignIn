@@ -29,5 +29,5 @@ Add the google-services.json file to your app module. This file contains configu
 
 ### 3. Web Client ID
 
-Make sure to add your web client ID too. It is provided by Firebase Console, Authentication > Sign-in Method > Google > Web SDK Implementation.
+Ensure that you include your web client ID as well. You can obtain it from the Firebase Console by navigating to Authentication > Sign-in Method > Google > Web SDK Implementation.
 
