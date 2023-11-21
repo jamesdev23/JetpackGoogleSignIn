@@ -31,3 +31,6 @@ Add the google-services.json file to your app module. This file contains configu
 
 Ensure that you include your web client ID as well. You can obtain it from the Firebase Console by navigating to Authentication > Sign-in Method > Google > Web SDK Implementation.
 
+## Screenshot
+![Google Sign-In Screenshot](https://github.com/jamesdev23/JetpackGoogleSignIn/blob/master/googlesignin1.jpg)
+
