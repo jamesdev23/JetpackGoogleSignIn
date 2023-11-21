@@ -33,5 +33,4 @@ Ensure that you include your web client ID as well. You can obtain it from the F
 
 ## Screenshot
 ![Google Sign-In Screenshot 1](https://github.com/jamesdev23/JetpackGoogleSignIn/blob/master/googlesignin1.jpg)
-![Google Sign-In Screenshot 2](https://github.com/jamesdev23/JetpackGoogleSignIn/blob/master/googlesignin2.jpg)
 
