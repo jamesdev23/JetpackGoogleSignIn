@@ -1,4 +1,4 @@
-# Google Sign-In in a Jetpack Compose Documentation
+# Google Sign-In in Jetpack Compose Documentation
 
 ## Overview
 
