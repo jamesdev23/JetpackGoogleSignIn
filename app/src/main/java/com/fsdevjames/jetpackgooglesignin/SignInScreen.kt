@@ -73,7 +73,6 @@ fun signInWithGoogle(
         .requestEmail()
         .build()
     val googleSignInClient = GoogleSignIn.getClient(context, googleSignInOptions)
-    // hack-ish way to re-select google account or email during sign-in
     googleSignInClient.signOut()
     val signInIntent = googleSignInClient.signInIntent
     googleSignInLauncher.launch(signInIntent)
