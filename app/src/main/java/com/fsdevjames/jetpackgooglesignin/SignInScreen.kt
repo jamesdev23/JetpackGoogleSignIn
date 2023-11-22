@@ -88,7 +88,7 @@ fun handleSignInResult(completedTask: Task<GoogleSignInAccount>, context: Contex
     }
 }
 
-private fun firebaseAuthWithGoogle(idToken: String?, context: Context) {
+fun firebaseAuthWithGoogle(idToken: String?, context: Context) {
     val auth: FirebaseAuth = FirebaseAuth.getInstance()
     val credential = GoogleAuthProvider.getCredential(idToken, null)
 
